@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
+import time
 
 edge_path = "Selenium-learning/Webdriver File/msedgedriver.exe"  # Webdriver path
 service = Service(executable_path= edge_path)
@@ -13,5 +14,6 @@ print(title)
 
 assert "Google" in title
 
+time.sleep(5) #Adding a delay
 driver.close()
 driver.quit()
