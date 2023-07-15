@@ -27,7 +27,7 @@ pselenium-4.10.0
 
 Follow the step by step guide to learn selenium.
 
-| Command | Description                                                     |
-|---------|-----------------------------------------------------------------|           
-| Example 1 | [Launching Web Browser](Seleniums Examples/Example 1/README.md) |
-| Example 2 | [Handling Web Elements](Seleniums Examples/Example 2/README.md) |
+| Command | Description                                           |
+|---------|-------------------------------------------------------|           
+| Example 1 | [Launching Web Browser](Seleniums-Examples/Example-1) |
+| Example 2 | [Handling Web Elements](Seleniums-Examples/Example-2) |
