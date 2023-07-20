@@ -1,12 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.common.by import By
 import time
 
-edge_path = "Selenium-learning/Webdriver File/msedgedriver.exe"  # Webdriver path
-service = Service(executable_path= edge_path)
-
-driver = webdriver.Edge(service= service)
+driver = webdriver.Edge(service=Service(EdgeChromiumDriverManager().install()))
 
 # It is an online automation testing website. Web element of writing username is used for this code,
 driver.get("https://www.saucedemo.com/")
