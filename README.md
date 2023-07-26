@@ -34,3 +34,4 @@ Follow the step by step guide to learn selenium.
 | Example 3 | [Handling-Web-Elements](Seleniums-Examples/Example-3)
 | Example 4 | [Handling Syncronization issues-Implicit Wait](Seleniums-Examples/Example-4)
 | Example 5 | [Handling Dropdown List](Seleniums-Examples/Example-5)
+| Example 6 | [Handling links](Seleniums-Examples/Example-6)
