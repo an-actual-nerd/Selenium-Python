@@ -33,3 +33,4 @@ Follow the step by step guide to learn selenium.
 | Example 2 | [WebDriverManager library and configuring more browsers](Seleniums-Examples/Example-2) |
 | Example 3 | [Handling-Web-Elements](Seleniums-Examples/Example-3)
 | Example 4 | [Handling Syncronization issues-Implicit Wait](Seleniums-Examples/Example-4)
+| Example 5 | [Handling Dropdown List](Seleniums-Examples/Example-5)
