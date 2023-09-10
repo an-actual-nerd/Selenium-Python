@@ -37,3 +37,4 @@ Follow the step by step guide to learn selenium.
 | Example 6 | [Handling links](Seleniums-Examples/Example-6)
 | Example 7 | [Is Element Present](Seleniums-Examples/Example-7)
 | Example 8 | [Handling Checkboxes](Seleniums-Examples/Example-8)
+| Example 8 | [Xpath and CSS Locators](Seleniums-Examples/Example-9)
