@@ -39,3 +39,4 @@ Follow the step by step guide to learn selenium.
 | Example 8  | [Handling Checkboxes](Seleniums-Examples/Example-8)
 | Example 9  | [Xpath and CSS Locators](Seleniums-Examples/Example-9)
 | Example 10 | [Handling Mouseover Event](Seleniums-Examples/Example-10)
+| Example 11 | [Handling Sliders](Seleniums-Examples/Example-11)
