@@ -43,3 +43,4 @@ Follow the step by step guide to learn selenium.
 | Example 11 | [Handling Sliders](Seleniums-Examples/Example-11)
 | Example 12 | [Handling Resizable Element](Seleniums-Examples/Example-12)
 | Example 13 | [Handling drag and drop](Seleniums-Examples/Example-13)
+| Example 14 | [Handling Right Click](Seleniums-Examples/Example-14)
