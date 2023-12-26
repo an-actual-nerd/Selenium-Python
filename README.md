@@ -45,4 +45,4 @@ Follow the step by step guide to learn selenium.
 | Example 13 | [Handling drag and drop](Seleniums-Examples/Example-13)
 | Example 14 | [Handling Right Click](Seleniums-Examples/Example-14)
 | Example 15 | [Handling Alerts](Seleniums-Examples/Example-15)
-| Example 16 | [Handling Alerts](Seleniums-Examples/Example-16)
+| Example 16 | [Handling Javascripts Function](Seleniums-Examples/Example-16)
