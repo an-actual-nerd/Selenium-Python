@@ -47,3 +47,9 @@ Follow the step by step guide to learn selenium.
 | Example 15 | [Handling Alerts](Seleniums-Examples/Example-15)
 | Example 16 | [Handling Javascripts Functions](Seleniums-Examples/Example-16)
 | Example 17 | [Handling Dynamic Webtables](Seleniums-Examples/Example-17)
+
+
+# Pytest Learning Examples
+| Command    | Description                                                                          |
+|------------|--------------------------------------------------------------------------------------|
+| Example 18 | [Pytest- Creating testcase](Pytest Learning Examples/Example-1)
