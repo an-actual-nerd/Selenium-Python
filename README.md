@@ -50,6 +50,7 @@ Follow the step by step guide to learn selenium.
 
 
 # Pytest Learning Examples
-| Command    | Description                                                                          |
-|------------|--------------------------------------------------------------------------------------|
-| Example 18 | [Pytest- Creating testcase](Pytest Learning Examples/Example-1)
+| Command   | Description                                                                          |
+|-----------|--------------------------------------------------------------------------------------|
+| Example 1 | [Pytest- Creating testcase](Pytest Learning Examples/Example-1)
+| Example 2 | [Pytest- Defining Test Fictures](Pytest Learning Examples/Example-2)
