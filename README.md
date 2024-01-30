@@ -60,4 +60,5 @@ Follow the step by step guide to learn selenium.
 | Example 3 | [Pytest- Defining Test Fictures with decorators](Pytest-Learning-Examples/Example-3) 
 | Example 4 | [Pytest- Markers](Pytest-Learning-Examples/Example-4)                              
 | Example 5 | [Pytest- Parametrize Markers](Pytest-Learning-Examples/Example-5)                              
-| Example 6 | [Pytest- Assertions](Pytest-Learning-Examples/Example-6)                              
+| Example 6 | [Pytest- Assertions](Pytest-Learning-Examples/Example-6)                    
+| Example 7 | [Pytest- Webdriver Integration](Pytest-Learning-Examples/Example-7)                    
